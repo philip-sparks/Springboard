@@ -16,6 +16,7 @@ Anaconda
 Jupyter Notebook
 
 ####JSON exercise
+
 Using data in file 'data/world_bank_projects.json' and the techniques demonstrated above,
 
 Find the 10 countries with most projects
