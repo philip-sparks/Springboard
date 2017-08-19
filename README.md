@@ -15,7 +15,7 @@ Anaconda
 
 Jupyter Notebook
 
-####JSON exercise
+#### JSON exercise
 
 Using data in file 'data/world_bank_projects.json' and the techniques demonstrated above,
 
