@@ -4,6 +4,8 @@ Example Code from Data Science Assignments
 This folder will contain assignment data for
 the Mode Analytics SQL Assignment
 
+Charts given here: https://modeanalytics.com/psparks/reports/f02356f6da37
+
 ## Getting Started
 
 Still learning how to fully utilize READMEs.
