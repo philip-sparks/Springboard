@@ -1,0 +1,51 @@
+The problem - Investigating a Drop in User Engagement from pseudo-Yammer Analytics
+
+Ideas for causes in the drop include:
+
+1. Seasonal/holiday drops
+
+2. New software leaves some users without access
+
+3. One off events like ad campaigns, loss of customer relationship, or sudden shutdown of services
+
+Answer the following:
+
+Do the answers to any of your original hypotheses lead you to further questions?
+
+Most of these causes for a drop could be discovered by finding the right person at Yammer to discuss
+this with and determine if anything unexpected has occurred in the last month.
+
+You could ask any of the following people about drops in user engagement, based on their job title:
+Product Manager - Have there been any new releases in software since 7/28?
+Marketing - Did any ad campaigns or promotional events end on 7/28?
+Sales - Did any contracts with certain customers on 7/28?
+Sys. Admin - Were there any expected/unexpected shutdowns of services that would have unexpectedly
+caused a loss of access?
+
+If so, what are they and how will you test them?
+
+Look at user engagement dip by country and see if it aligns with the hypothesis that users in the US
+are taking vacation.
+
+If they are questions that you can’t answer using data alone, how would you go about answering them (hypothetically, 
+assuming you actually worked at this company)?
+
+Most of these causes for a drop could be discovered by finding the right person at Yammer to discuss
+this with and determine if anything unexpected has occurred in the last month.
+
+You could ask any of the following people about drops in user engagement, based on their job title:
+Product Manager - Have there been any new releases in software since 7/28?
+Marketing - Did any ad campaigns or promotional events end on 7/28?
+Sales - Did any contracts with certain customers on 7/28?
+Sys. Admin - Were there any expected/unexpected shutdowns of services that would have unexpectedly
+caused a loss of access?
+
+What seems like the most likely cause of the engagement dip?
+
+US workers going on vacation.
+
+What, if anything, should the company do in response (in order of importance)?
+
+1. Determine how to increase the clickthrough rate on emails. This correlates to the dip seen on 7/28 as well.
+2. Increase and diversify worldwide user engagement
+3. Wait for September data to confirm (if it picks up to July levels, you'll know the cause is seasonal).
